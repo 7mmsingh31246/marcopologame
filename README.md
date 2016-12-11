@@ -1,2 +1,0 @@
-# marcopologame
-marco polo game
